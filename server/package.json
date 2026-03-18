@@ -1,0 +1,25 @@
+{
+  "name": "secure-file-sharing-system",
+  "version": "1.0.0",
+  "description": "To provide a secure, reliable, and user‑friendly system for sharing sensitive files across teams or organizations, ensuring confidentiality, integrity, and controlled access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalpanaB00/Secure-File-Sharing-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KalpanaB00/Secure-File-Sharing-System/issues"
+  },
+  "homepage": "https://github.com/KalpanaB00/Secure-File-Sharing-System#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
